@@ -19,13 +19,13 @@ msgstr ""
 #: model:ir.actions.act_window,name:account_ledger_entries.action_account_moves_ledger_general
 #: model:ir.ui.menu,name:account_ledger_entries.menu_action_account_moves_ledger_general
 msgid "General Ledger"
-msgstr "Mayor general"
+msgstr "Libro mayor"
 
 #. module: account_ledger_entries
 #: model:ir.actions.act_window,name:account_ledger_entries.action_account_moves_ledger_by_partner
 #: model:ir.ui.menu,name:account_ledger_entries.menu_action_account_moves_ledger_by_partner
 msgid "Ledger by Partner"
-msgstr "Mayor por empresa"
+msgstr "Libro mayor por empresa"
 
 #. module: account_ledger_entries
 #: model:ir.ui.menu,name:account_ledger_entries.account_ledger_entries
